@@ -1,16 +1,10 @@
-# Configuration Repository
+# Srijani Das
 
-This repository is currently a placeholder for future configuration files and setup notes.
+Welcome to my GitHub.
 
-## Purpose
+- 🔧 Projects  
+- 📁 Repositories  
+- 📫 [GitHub](https://github.com/SrijaniDas0107)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srijanidas0107)
 
-To eventually organize and track personal development environment configurations, tool preferences, and setup steps as I gain more experience.
-
-## Status
-
-This repository is currently empty and will be updated as needed over time.
-
----
-
-*Maintained by [Srijani Das](https://github.com/SrijaniDas0107)*
 
