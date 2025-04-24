@@ -1,16 +1,16 @@
-## Hi there 👋
+# Configuration Repository
 
-<!--
-**SrijaniDas0107/SrijaniDas0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is currently a placeholder for future configuration files and setup notes.
 
-Here are some ideas to get you started:
+## Purpose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To eventually organize and track personal development environment configurations, tool preferences, and setup steps as I gain more experience.
+
+## Status
+
+This repository is currently empty and will be updated as needed over time.
+
+---
+
+*Maintained by [Srijani Das](https://github.com/SrijaniDas0107)*
+
