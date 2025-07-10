@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 ---
 
-🎓 First-year Computer Science student at VIT Chennai  
+🎓 Second-year B.Tech Computer Science student at VIT Chennai  
 💡 Exploring C, C++, Python, and project-based learning 
 
 ---
