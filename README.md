@@ -13,6 +13,9 @@ Welcome to my GitHub.
 - 📁 Repositories
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical)
+
+
 ## Skills
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python" alt="Skills" />
