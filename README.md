@@ -35,6 +35,9 @@ Welcome to my GitHub.
   <a href="https://www.hackerrank.com/profile/srijani0107" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" height="28" />
   </a>
+  <a href="https://www.codechef.com/users/srijani_das01" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" />
+  </a>
 </p>
 
 
