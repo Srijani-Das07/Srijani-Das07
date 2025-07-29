@@ -13,8 +13,11 @@ Welcome to my GitHub.
 - 📁 Repositories
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=Srijani-Das07&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical" width="500" />
+<br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Srijani-Das07&theme=radical&hide_border=false" width="500" />
+
+
 
 
 ## Skills
