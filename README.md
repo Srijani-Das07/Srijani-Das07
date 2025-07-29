@@ -15,6 +15,8 @@ Welcome to my GitHub.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Srijani-Das07&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ## Skills
 
