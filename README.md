@@ -11,6 +11,9 @@ Welcome to my GitHub.
 
 - 🔧 Projects  
 - 📁 Repositories
+
+[![My Projects](assets/projects-badge.svg)](https://github.com/Srijani-Das07?tab=repositories)
+
 ---
 
 <p align="center">
