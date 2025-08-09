@@ -15,7 +15,7 @@ Welcome to my GitHub.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=dark" width="500" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Srijani-Das07&theme=radical&hide_border=false" width="500" />
 </p>
