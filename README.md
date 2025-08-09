@@ -12,8 +12,6 @@ Welcome to my GitHub.
 - 🔧 Projects  
 - 📁 Repositories
 
-[![My Projects](assets/projects-badge.svg)](https://github.com/Srijani-Das07?tab=repositories)
-
 ---
 
 <p align="center">
@@ -23,12 +21,14 @@ Welcome to my GitHub.
 </p>
 
 
-
-
 ## Programming Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github" alt="Skills" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
