@@ -14,25 +14,6 @@ Welcome to my GitHub.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical" width="500" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srijani-Das07&theme=radical&hide_border=false" width="500" />
-</p>
-
-
-## Programming Languages and Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
 ## Coding Profiles
 
 <p align="center">
@@ -46,6 +27,40 @@ Welcome to my GitHub.
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=radical" width="500" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Srijani-Das07&theme=radical&hide_border=false" width="500 height="200px" />
+  <br>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijani-Das07&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srijani-Das07&theme=radical" width="40%" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srijani-Das07&theme=radical" width="40%" height="150px" />
+</p>
+
+---
+
+## Programming Languages and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+
+
+
 
 
 
