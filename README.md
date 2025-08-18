@@ -7,6 +7,14 @@
 
 ---
 
+## Highlights  
+
+- 🧠 Built ML models for [**Plant Disease Detection**](https://github.com/Srijani-Das07/Plant-Disease-Detection-and-Classification-Baseline-Models) (CNNs + ViTs)  
+- 🍳 Created a [**C++ Recipe Recommendation System**](https://github.com/Srijani-Das07/Recipe-Recommendation-System)  
+- 🔗 Exploring **open-source contributions** 
+
+---
+
 ## Languages and Tools  
 
 <p align="center">
@@ -52,7 +60,7 @@
 ## Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijani-Das07&theme=react-dark&area=true&hide_border=true&line=00fffb&point=ffffff&color=39FF14" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijani-Das07&theme=react-dark&area=true&hide_border=true&line=00fffb&point=ffffff&color=39FF14" width="700" height="250"/>
 </p>
 
 
