@@ -43,26 +43,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=tokyonight&hide_border=true" width="450"/>
 </p>
 
 ---
 
-## GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srijani-Das07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-<!--
-## Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijani-Das07&theme=react-dark&area=true&hide_border=true&line=00fffb&point=ffffff&color=39FF14" width="700" height="250"/>
-</p>
 
 
 
