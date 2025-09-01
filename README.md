@@ -41,9 +41,21 @@
 
 ## GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-</p>
+<div align="center">
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=tokyonight&hide_border=true" width="450" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
