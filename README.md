@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srijani Das</h1>
+<h1 align="center">Hi 👋, I'm Srijani</h1>
 
 <p align="center">
 🎓 Second-year B.Tech Computer Science student @ VIT Chennai <br>
