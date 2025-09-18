@@ -39,7 +39,7 @@
 </p>
 
 ---
-
+<!--
 ## GitHub Stats  
 
 <div align="center">
@@ -47,10 +47,10 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=neon&hide_border=false&cache_seconds=7200" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=neon&hide_border=false" width="450"/>
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=neon&hide_border=false&cache_seconds=7200" width="450" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=neon&hide_border=false" width="450" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
