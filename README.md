@@ -57,6 +57,13 @@
 
 </div>
 
+---
+
+## Github Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Srijani-Das07&theme=radical" />
+</div>
 
 
 
