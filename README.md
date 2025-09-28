@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+<!--
 ## Highlights  
 
 - 🧠 Built ML models for [**Plant Disease Detection**](https://github.com/Srijani-Das07/Plant-Disease-Detection-and-Classification-Baseline-Models) (CNNs + ViTs)  
@@ -15,7 +15,7 @@
 - 🔗 Exploring **open-source contributions** 
 
 ---
-
+-->
 ## Languages and Tools  
 
 <p align="center">
@@ -58,7 +58,7 @@
 </div>
 
 ---
-
+<!--
 ## Github Trophies
 
 <div align="center">
