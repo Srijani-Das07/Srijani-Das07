@@ -50,6 +50,8 @@
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=neon&hide_border=false" width="450"/>
+    </td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=neon&hide_border=false" width="450" alt="GitHub Streak" />
     </td>
   </tr>
