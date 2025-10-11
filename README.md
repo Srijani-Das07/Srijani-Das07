@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srijani</h1>
+<h1 align="center">Hey there 👋, I'm Srijani</h1>
 
 <p align="center">
-🎓 Second-year B.Tech Computer Science student @ VIT Chennai <br>
-💡 Exploring C, C++, Python, and project-based learning 
+🎓 2nd-year B.Tech Computer Science student @ VIT Chennai <br>
+💻 C, C++, Python | Exploring open source and project-based learning 
 </p>
 
 ---
