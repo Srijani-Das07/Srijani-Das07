@@ -6,16 +6,7 @@
 </p>
 
 ---
-<!--
-## Highlights  
 
-- 🧠 Built ML models for [**Plant Disease Detection**](https://github.com/Srijani-Das07/Plant-Disease-Detection-and-Classification-Baseline-Models) (CNNs + ViTs)  
-- 🍳 Created a [**C++ Recipe Recommendation System**](https://github.com/Srijani-Das07/Recipe-Recommendation-System)
-- 🔊 Developed a [**Voice Notes Summarizer**](https://github.com/Srijani-Das07/Voice-Notes-Summarizer) using speech-to-text + NLP
-- 🔗 Exploring **open-source contributions** 
-
----
--->
 ## Languages and Tools  
 
 <p align="center">
@@ -59,7 +50,9 @@
 
 ---
 
+## Github Trophies 
 
+![](https://github-profile-trophy.vercel.app/?username=Srijani-Das07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 
