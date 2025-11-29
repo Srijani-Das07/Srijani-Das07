@@ -10,7 +10,7 @@
 ## Languages and Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode" height="45"/>
 </p>
 
 ---
