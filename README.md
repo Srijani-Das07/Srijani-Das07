@@ -49,12 +49,12 @@
 </div>
 
 ---
-
+<!--
 ## Github Trophies 
 
 ![](https://github-profile-trophy.vercel.app/?username=Srijani-Das07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-
+-->
 
 
 
