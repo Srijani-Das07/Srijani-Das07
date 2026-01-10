@@ -5,7 +5,7 @@
 💻 C, C++, Python | Exploring open source and project-based learning 
 </p>
 
----
+
 
 ## Languages and Tools  
 
@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode" height="45"/>
 </p>
 
----
+
 
 ## Coding Profiles  
 
@@ -29,23 +29,7 @@
   </a>
 </p>
 
----
 
-## GitHub Stats  
 
-<div align="center">
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Srijani-Das07&show_icons=true&theme=tokyonight&hide_border=false" width="450"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijani-Das07&theme=tokyonight&hide_border=false" width="450" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
