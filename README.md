@@ -1,19 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Srijani</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=700&color=9D7CD8&cursor=true&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Srijani;Welcome+to+my+GitHub+profile!"/></p>
 
 <p align="center">
-🎓 2nd-year B.Tech Computer Science student @ VIT Chennai <br>
+🎓 B.Tech Computer Science student @ VIT Chennai <br>
 💻 C, C++, Python | Exploring open source and project-based learning 
 </p>
-
-
 
 ## Languages and Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode" height="45"/>
 </p>
-
-
 
 ## Coding Profiles  
 
@@ -28,7 +24,6 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28" style="border-radius: 8px;"/>
   </a>
 </p>
-
 
 ## GitHub Stats  
 
